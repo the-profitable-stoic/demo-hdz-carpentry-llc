@@ -1,0 +1,612 @@
+{
+  "business": {
+    "name": "Hdz Carpentry LLC",
+    "phone": "+16025824535",
+    "category": "carpenter",
+    "city": "Phoenix",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Phoenix's Trusted Carpentry Experts",
+      "heroSubline": "Delivering quality craftsmanship across the Valley. From custom projects to essential repairs, we handle it all with precision and care.",
+      "aboutTitle": "Crafting Excellence in Phoenix for Over a Decade",
+      "aboutText": [
+        "Hdz Carpentry LLC began with a simple mission: to bring unparalleled carpentry expertise to Phoenix homes and businesses. Founded by a team of dedicated craftsmen, we've grown from a small operation into a trusted name across the Valley.",
+        "We approach every project with meticulous detail and unwavering commitment to quality. Using time-tested techniques and modern innovations, we ensure lasting results that stand up to the Arizona climate. Our word is our bond, and we deliver on our promises.",
+        "As Phoenix residents, we're deeply invested in our community. We support local initiatives and strive to build a better future for our city, one project at a time. We are committed to sustainable practices and responsible material sourcing."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Decades of experience delivering superior carpentry results."
+        },
+        {
+          "title": "Arizona-Ready Solutions",
+          "description": "Built to withstand the extreme Phoenix heat and monsoon season."
+        },
+        {
+          "title": "Reliable & On-Time",
+          "description": "We respect your time and deliver projects as promised."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "You'll always know the status of your project."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free, no-obligation quote for your carpentry project. Call now!"
+    },
+    "services": [
+      {
+        "slug": "custom-cabinetry",
+        "name": "Custom Cabinetry",
+        "shortDescription": "Elevate your home with handcrafted, custom-designed cabinets.",
+        "description": "Transform your kitchen, bathroom, or any room with custom cabinetry designed and built to your exact specifications. We work with a variety of hardwoods and finishes to match your style and needs. From initial design to professional installation, we handle every detail with precision and care. Phoenix homes deserve cabinetry that's both beautiful and functional, built to withstand the Arizona climate. We specialize in creating storage solutions that maximize space and enhance the overall aesthetic of your home. Whether you're looking for modern minimalist designs or classic, ornate styles, Hdz Carpentry delivers exceptional results. We take pride in our craftsmanship and use only the highest-quality materials, ensuring lasting beauty and durability. Let us bring your vision to life with custom cabinetry that reflects your unique taste and enhances your living space. Our experience with Phoenix architecture means we understand the challenges of older block homes and the nuances of newer stucco construction.",
+        "process": [
+          "Consultation & Design",
+          "Material Selection",
+          "Construction & Finishing",
+          "Professional Installation"
+        ],
+        "benefits": [
+          "Maximize Space",
+          "Enhance Home Value",
+          "Personalized Style",
+          "Durable Construction"
+        ],
+        "faq": [
+          {
+            "question": "What types of wood do you use for custom cabinetry?",
+            "answer": "We work with a variety of hardwoods, including maple, oak, cherry, and walnut. We can also source other specialty woods upon request."
+          },
+          {
+            "question": "How long does it take to complete a custom cabinetry project?",
+            "answer": "The timeline varies depending on the size and complexity of the project. We'll provide you with a detailed estimate during the initial consultation."
+          },
+          {
+            "question": "Do you offer design services?",
+            "answer": "Yes, we offer comprehensive design services to help you create the perfect cabinetry for your space. We'll work closely with you to understand your needs and preferences."
+          }
+        ]
+      },
+      {
+        "slug": "stucco-repair",
+        "name": "Stucco Repair & Restoration",
+        "shortDescription": "Protect your home with expert stucco repair services.",
+        "description": "Phoenix's intense sun and monsoon season can wreak havoc on stucco exteriors. Hdz Carpentry specializes in stucco repair and restoration, ensuring your home remains protected and aesthetically pleasing. We address cracks, water damage, and other common stucco issues with precision and expertise. Our team uses high-quality materials and proven techniques to seamlessly blend repairs with your existing stucco finish. We understand the unique challenges of Arizona stucco and provide solutions that last. From patching small cracks to complete stucco resurfacing, we handle projects of all sizes. We also offer stucco painting and sealing services to enhance protection and appearance. Don't let damaged stucco compromise the integrity of your home. Trust Hdz Carpentry to restore your stucco to its original beauty and provide lasting protection against the elements. We're familiar with the specific stucco styles common in Arcadia, Biltmore, and other Phoenix neighborhoods.",
+        "process": [
+          "Inspection & Assessment",
+          "Surface Preparation",
+          "Stucco Repair & Patching",
+          "Finishing & Sealing"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Protection from the Elements",
+          "Prevention of Further Damage",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my stucco needs repair?",
+            "answer": "Common signs of stucco damage include cracks, discoloration, water stains, and crumbling. If you notice any of these issues, it's important to address them promptly."
+          },
+          {
+            "question": "What causes stucco damage in Phoenix?",
+            "answer": "The extreme heat, intense sun, and monsoon rains can all contribute to stucco damage. These factors can cause the stucco to crack, fade, and become susceptible to water damage."
+          },
+          {
+            "question": "Can you match the existing stucco texture and color?",
+            "answer": "Yes, our skilled technicians are experts at matching existing stucco textures and colors. We'll ensure that the repairs blend seamlessly with your home's exterior."
+          }
+        ]
+      },
+      {
+        "slug": "tile-roof-repair",
+        "name": "Tile Roof Repair",
+        "shortDescription": "Protect your investment with our expert tile roof repair services.",
+        "description": "Tile roofs are a common sight in Phoenix, offering durability and aesthetic appeal. However, they require regular maintenance to withstand the harsh Arizona climate. Hdz Carpentry provides comprehensive tile roof repair services, addressing broken tiles, leaks, and other common issues. We are skilled in working with various tile types, including clay, concrete, and slate. Our team conducts thorough inspections to identify the source of the problem and provide effective, long-lasting solutions. We understand the importance of maintaining a watertight roof to protect your home from water damage. From replacing individual tiles to repairing flashing and underlayment, we handle every aspect of tile roof repair with precision and care. We are committed to using high-quality materials and proven techniques to ensure lasting results. Protect your investment and maintain the beauty of your home with Hdz Carpentry's tile roof repair services. We understand the nuances of the tile roofs commonly found in Desert Ridge and Ahwatukee.",
+        "process": [
+          "Roof Inspection",
+          "Tile Replacement",
+          "Flashing Repair",
+          "Leak Detection"
+        ],
+        "benefits": [
+          "Prevents Water Damage",
+          "Extends Roof Lifespan",
+          "Maintains Home Value",
+          "Enhances Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my tile roof inspected?",
+            "answer": "We recommend having your tile roof inspected at least once a year, especially before and after monsoon season."
+          },
+          {
+            "question": "What are the signs of a damaged tile roof?",
+            "answer": "Common signs include broken or missing tiles, leaks, water stains on ceilings, and moss or algae growth."
+          },
+          {
+            "question": "Can you repair leaks in my tile roof?",
+            "answer": "Yes, we are experts at finding and repairing leaks in tile roofs. We'll identify the source of the leak and provide a lasting solution."
+          }
+        ]
+      },
+      {
+        "slug": "patio-covers-pergolas",
+        "name": "Patio Covers & Pergolas",
+        "shortDescription": "Create the perfect outdoor living space with custom patio covers and pergolas.",
+        "description": "Enhance your outdoor living experience with a custom-designed patio cover or pergola from Hdz Carpentry. We create beautiful and functional outdoor spaces that provide shade, protection, and style. Whether you're looking for a solid patio cover for maximum sun protection or an open-air pergola for a touch of elegance, we can bring your vision to life. We work with a variety of materials, including wood, aluminum, and composite, to match your home's aesthetic and budget. Our team handles every aspect of the project, from design and construction to installation and finishing. Enjoy the Arizona sunshine in comfort and style with a custom patio cover or pergola from Hdz Carpentry. We understand the importance of shade in the Phoenix climate and design our structures to provide optimal comfort. Imagine enjoying a cool drink on your patio, protected from the intense summer heat by a beautiful, custom-built structure. We can also incorporate features like lighting, fans, and outdoor kitchens to create the ultimate outdoor living space.",
+        "process": [
+          "Design Consultation",
+          "Material Selection",
+          "Construction",
+          "Installation"
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Protection from the Sun",
+          "Enhanced Home Value",
+          "Stylish Design"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for patio covers and pergolas?",
+            "answer": "We offer a variety of materials, including wood, aluminum, and composite. We can help you choose the best material for your needs and budget."
+          },
+          {
+            "question": "Do I need a permit for a patio cover or pergola?",
+            "answer": "Permit requirements vary depending on the size and location of the structure. We can help you navigate the permit process and ensure that your project complies with local regulations."
+          },
+          {
+            "question": "How long does it take to build a patio cover or pergola?",
+            "answer": "The timeline varies depending on the size and complexity of the project. We'll provide you with a detailed estimate during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "door-window-installation",
+        "name": "Door & Window Installation",
+        "shortDescription": "Improve efficiency and security with professional door and window installation.",
+        "description": "Upgrade your home's energy efficiency, security, and curb appeal with professional door and window installation from Hdz Carpentry. We install a wide range of doors and windows, including entry doors, patio doors, sliding glass doors, and energy-efficient windows. Our team ensures precise installation for optimal performance and longevity. We understand the importance of proper sealing to prevent drafts and leaks, which can significantly reduce energy costs. We work with leading brands and offer a variety of styles to match your home's architecture. From traditional to modern designs, we can help you find the perfect doors and windows to enhance your living space. Trust Hdz Carpentry for expert door and window installation that improves your home's comfort, security, and value. We're familiar with the common door and window sizes and styles found in older Phoenix homes.",
+        "process": [
+          "Consultation & Measurement",
+          "Door & Window Selection",
+          "Professional Installation",
+          "Finishing & Sealing"
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Enhanced Security",
+          "Increased Home Value",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of energy-efficient windows?",
+            "answer": "Energy-efficient windows can significantly reduce your energy bills by minimizing heat transfer. They also provide better insulation and reduce noise."
+          },
+          {
+            "question": "How long does it take to install a new door or window?",
+            "answer": "The timeline varies depending on the type of door or window and the complexity of the installation. We'll provide you with a detailed estimate during the initial consultation."
+          },
+          {
+            "question": "Do you offer a warranty on your door and window installations?",
+            "answer": "Yes, we offer a warranty on our door and window installations. We stand behind our workmanship and are committed to your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "framing-services",
+        "name": "Framing Services",
+        "shortDescription": "Solid framing is the backbone of every successful construction project.",
+        "description": "Hdz Carpentry provides expert framing services for residential and commercial projects. We understand that solid framing is the foundation of any structurally sound building. Our team of experienced carpenters ensures precise and accurate framing, adhering to the highest industry standards. Whether you're building a new home, adding an addition, or renovating an existing structure, we have the expertise to handle all your framing needs. We work with a variety of materials, including wood and steel, and are proficient in both conventional and engineered framing techniques. Trust Hdz Carpentry for reliable and professional framing services that provide a solid foundation for your project. We understand the specific framing requirements of Phoenix's diverse architecture, from the older block homes to the newer stucco developments. We also take into account the unique challenges posed by the Arizona climate, ensuring that our framing is built to withstand the test of time.",
+        "process": [
+          "Blueprint Review",
+          "Material Selection",
+          "Framing Construction",
+          "Quality Inspection"
+        ],
+        "benefits": [
+          "Structural Integrity",
+          "Accurate Construction",
+          "Adherence to Building Codes",
+          "Long-Lasting Results"
+        ],
+        "faq": [
+          {
+            "question": "What types of framing services do you offer?",
+            "answer": "We offer a wide range of framing services, including wood framing, steel framing, and custom framing for residential and commercial projects."
+          },
+          {
+            "question": "How important is proper framing?",
+            "answer": "Proper framing is crucial for the structural integrity of any building. It ensures that the building is stable, safe, and able to withstand the elements."
+          },
+          {
+            "question": "Do you adhere to local building codes?",
+            "answer": "Yes, we strictly adhere to all local building codes and regulations. We ensure that our framing is built to the highest standards of safety and quality."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-installation-repair",
+        "name": "Drywall Installation & Repair",
+        "shortDescription": "Seamless drywall services to create smooth, flawless walls and ceilings.",
+        "description": "Achieve smooth, flawless walls and ceilings with Hdz Carpentry's professional drywall installation and repair services. We handle everything from new drywall installation to patching holes and repairing cracks. Our team of skilled technicians ensures seamless results that enhance the beauty of your home. We use high-quality materials and proven techniques to create durable and long-lasting walls and ceilings. Whether you're renovating a room, repairing water damage, or building a new home, we have the expertise to handle all your drywall needs. We also offer texturing and painting services to provide a complete and finished look. Trust Hdz Carpentry for expert drywall installation and repair that transforms your space. We understand the importance of proper insulation in the Phoenix climate and ensure that our drywall installations contribute to energy efficiency.",
+        "process": [
+          "Surface Preparation",
+          "Drywall Installation",
+          "Seaming & Sanding",
+          "Finishing & Texturing"
+        ],
+        "benefits": [
+          "Smooth, Flawless Walls",
+          "Improved Insulation",
+          "Enhanced Aesthetics",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What types of drywall services do you offer?",
+            "answer": "We offer a wide range of drywall services, including new drywall installation, drywall repair, texturing, and painting."
+          },
+          {
+            "question": "How do you repair drywall damage?",
+            "answer": "We use a variety of techniques to repair drywall damage, depending on the severity of the damage. We can patch holes, repair cracks, and replace damaged sections of drywall."
+          },
+          {
+            "question": "Do you offer texturing services?",
+            "answer": "Yes, we offer a variety of texturing services to add visual interest to your walls and ceilings. We can match existing textures or create custom textures to suit your style."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Custom Cabinetry",
+        "text": "Hdz Carpentry built beautiful custom cabinets for our kitchen remodel in Arcadia. The quality of the work is outstanding, and they paid attention to every little detail. They were professional, on time, and a pleasure to work with. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Stucco Repair",
+        "text": "Our stucco was badly damaged after the monsoon season. Hdz Carpentry did a great job repairing the cracks and matching the existing texture. The price was fair, and the work was completed quickly. I would use them again.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Tile Roof Repair",
+        "text": "We had a leak in our tile roof, and Hdz Carpentry was able to fix it quickly and efficiently. They replaced the broken tiles and sealed the roof properly. Very professional and reliable service.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Patio Cover Installation",
+        "text": "Hdz Carpentry built a fantastic patio cover for our backyard. It provides much-needed shade and makes our outdoor space much more enjoyable. The quality of the workmanship is excellent, and the price was very reasonable.",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Door Installation",
+        "text": "I needed a new front door installed, and Hdz Carpentry did a great job. The installation was done quickly and professionally, and the door looks fantastic. I am very happy with the service.",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Framing Services",
+        "text": "Hdz Carpentry handled the framing for our home addition, and they did an excellent job. The framing is solid and accurate, and they adhered to all building codes. I would definitely recommend them for any framing project.",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Hdz Carpentry LLC | Phoenix, AZ",
+        "description": "Phoenix's trusted carpentry contractor. Custom cabinets, stucco repair, tile roofs, and more. Call today!"
+      },
+      "about": {
+        "title": "About Hdz Carpentry LLC",
+        "description": "Learn about Hdz Carpentry LLC, Phoenix's leading carpentry experts. Quality craftsmanship and reliable service."
+      },
+      "services": {
+        "title": "Hdz Carpentry Services",
+        "description": "Explore our carpentry services: custom cabinetry, stucco repair, tile roof repair, patio covers, and more."
+      },
+      "contact": {
+        "title": "Contact Hdz Carpentry LLC",
+        "description": "Contact Hdz Carpentry LLC for a free quote on your carpentry project. Serving Phoenix and surrounding areas."
+      },
+      "reviews": {
+        "title": "Hdz Carpentry LLC Reviews",
+        "description": "Read reviews from satisfied Hdz Carpentry LLC customers in Phoenix, AZ. Quality carpentry services."
+      },
+      "service-areas": {
+        "title": "Hdz Carpentry Service Areas",
+        "description": "Hdz Carpentry serves Phoenix, Scottsdale, Mesa, Chandler, Gilbert, and Tempe. Expert carpentry services near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Scottsdale",
+        "slug": "scottsdale-az",
+        "state": "AZ",
+        "content": "Hdz Carpentry LLC is proud to offer our expert carpentry services to the residents of Scottsdale, Arizona. From the high-end luxury Southwestern estates to smaller residences, we understand the unique architectural styles and needs of Scottsdale homeowners. We provide custom carpentry solutions, including kitchen and bathroom remodels, custom cabinetry, and outdoor living spaces, all designed to withstand the extreme summer heat that Scottsdale experiences.",
+        "localContext": "Scottsdale is known for its luxury homes and desert landscaping, requiring carpentry that blends aesthetics with durability against the intense Arizona climate.",
+        "nearbyAreas": [
+          "Paradise Valley",
+          "Phoenix",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Mesa",
+        "slug": "mesa-az",
+        "state": "AZ",
+        "content": "Hdz Carpentry LLC proudly serves the city of Mesa, Arizona, bringing our expertise to the diverse housing stock found throughout the area. Many homes in Mesa were built in the 1970s and 80s and feature stucco exteriors, presenting unique challenges and opportunities for renovation and remodeling. We specialize in updating kitchens and bathrooms, installing energy-efficient windows and doors, and creating custom carpentry solutions to enhance the value and comfort of your Mesa home.",
+        "localContext": "Mesa's prevalent 1970s-80s stucco homes often require specific carpentry expertise for renovations and upgrades.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Tempe",
+          "Chandler"
+        ]
+      },
+      {
+        "city": "Chandler",
+        "slug": "chandler-az",
+        "state": "AZ",
+        "content": "Hdz Carpentry LLC is dedicated to providing exceptional carpentry services to the community of Chandler, Arizona. With its many planned developments built in the 1990s and 2000s, Chandler presents a mix of architectural styles and homeowner preferences. We offer a wide range of carpentry services, including custom entertainment centers, home office solutions, and outdoor living spaces designed to complement the modern lifestyle of Chandler residents. We understand the importance of quality craftsmanship and attention to detail.",
+        "localContext": "Chandler's planned communities from the 90s and 2000s often benefit from updated interior carpentry and outdoor living spaces.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Tempe",
+          "Mesa"
+        ]
+      },
+      {
+        "city": "Gilbert",
+        "slug": "gilbert-az",
+        "state": "AZ",
+        "content": "Hdz Carpentry LLC is pleased to offer our professional carpentry services to the growing town of Gilbert, Arizona. Known for its newer construction, particularly homes built in the 2000s-2020s, Gilbert offers opportunities for modern carpentry designs and innovative solutions. We specialize in creating custom kitchens, bathrooms, and outdoor living areas that seamlessly integrate with the architectural aesthetics of Gilbert homes. Our commitment to quality and customer satisfaction makes us the trusted choice for carpentry projects in Gilbert.",
+        "localContext": "Gilbert's newer homes often seek contemporary carpentry designs for kitchens, bathrooms, and outdoor spaces.",
+        "nearbyAreas": [
+          "Chandler",
+          "Mesa",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Tempe",
+        "slug": "tempe-az",
+        "state": "AZ",
+        "content": "Hdz Carpentry LLC provides expert carpentry services to Tempe, Arizona, a vibrant city with a mix of older and newer homes, particularly near Arizona State University. We understand the unique needs of Tempe homeowners and renters, offering services such as custom shelving and storage solutions, kitchen and bathroom updates, and deck and patio repairs. We're committed to providing quality work at a fair price, helping Tempe residents create comfortable and functional living spaces.",
+        "localContext": "Tempe's university-area homes often require carpentry services for space optimization and modern updates.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Mesa",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Phoenix",
+        "slug": "phoenix-az",
+        "state": "AZ",
+        "content": "Hdz Carpentry LLC is a Phoenix-based carpentry company offering a wide range of services to homeowners throughout the city. From historic homes in downtown Phoenix to newer developments in the suburbs, we're experienced in working with a variety of architectural styles and carpentry needs. We specialize in kitchen and bathroom remodels, custom cabinetry, and structural repairs. We are committed to delivering high-quality craftsmanship and exceptional customer service.",
+        "localContext": "Phoenix's diverse neighborhoods and architectural styles require carpentry skills adaptable to various projects.",
+        "nearbyAreas": [
+          "Tempe",
+          "Scottsdale",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-az",
+        "state": "AZ",
+        "content": "Hdz Carpentry LLC extends its professional carpentry services to Glendale, Arizona, offering solutions for a wide range of home improvement projects. Glendale features a diverse mix of housing styles, from older homes to newer developments, each presenting unique carpentry needs. We specialize in updating kitchens and bathrooms, creating custom storage solutions, and repairing or replacing damaged wood structures. Our goal is to provide Glendale residents with reliable and affordable carpentry services.",
+        "localContext": "Glendale's mix of older and newer homes benefits from Hdz Carpentry's diverse skill set for various projects.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Peoria",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Peoria",
+        "slug": "peoria-az",
+        "state": "AZ",
+        "content": "Hdz Carpentry LLC is proud to serve the residents of Peoria, Arizona, with our comprehensive carpentry services. Peoria's growth has led to a mix of established neighborhoods and new construction, each with its own unique style and requirements. We offer services ranging from custom cabinetry and built-ins to structural repairs and renovations. We are dedicated to providing Peoria homeowners with exceptional craftsmanship and reliable service.",
+        "localContext": "Peoria's blend of older and newer developments requires carpentry services tailored to different home styles.",
+        "nearbyAreas": [
+          "Glendale",
+          "Surprise",
+          "Phoenix"
+        ]
+      },
+      {
+        "city": "Surprise",
+        "slug": "surprise-az",
+        "state": "AZ",
+        "content": "Hdz Carpentry LLC provides expert carpentry services to Surprise, Arizona, a rapidly growing city with a focus on family-friendly living. With its master-planned communities and newer homes, Surprise offers opportunities for modern carpentry designs and functional living spaces. We specialize in creating custom kitchens, bathrooms, and outdoor living areas tailored to the needs of Surprise families. Our commitment to quality and customer satisfaction makes us the trusted choice for carpentry projects in Surprise.",
+        "localContext": "Surprise's focus on family-friendly living benefits from custom carpentry for kitchens, bathrooms, and outdoor spaces.",
+        "nearbyAreas": [
+          "Peoria",
+          "Glendale",
+          "Sun City"
+        ]
+      },
+      {
+        "city": "Queen Creek",
+        "slug": "queen-creek-az",
+        "state": "AZ",
+        "content": "Hdz Carpentry LLC is pleased to offer its professional carpentry services to the town of Queen Creek, Arizona. Known for its rural charm and growing residential communities, Queen Creek presents opportunities for both traditional and modern carpentry designs. We specialize in creating custom horse barns, outdoor living spaces, and home additions that complement the unique lifestyle of Queen Creek residents. Our commitment to quality and craftsmanship ensures long-lasting results.",
+        "localContext": "Queen Creek's rural lifestyle benefits from custom carpentry solutions for horse barns, outdoor spaces, and home additions.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Chandler",
+          "San Tan Valley"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-cabinetry": "/images/service-custom-cabinetry.webp",
+      "stucco-repair": "/images/service-stucco-repair.webp",
+      "tile-roof-repair": "/images/service-tile-roof-repair.webp",
+      "patio-covers-pergolas": "/images/service-patio-covers-pergolas.webp",
+      "door-window-installation": "/images/service-door-window-installation.webp",
+      "framing-services": "/images/service-framing-services.webp",
+      "drywall-installation-repair": "/images/service-drywall-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "custom-cabinetry": {
+        "src": "/images/service-custom-cabinetry.webp",
+        "srcset": "/images/service-custom-cabinetry-400w.webp 400w, /images/service-custom-cabinetry-800w.webp 800w, /images/service-custom-cabinetry-1200w.webp 1200w, /images/service-custom-cabinetry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stucco-repair": {
+        "src": "/images/service-stucco-repair.webp",
+        "srcset": "/images/service-stucco-repair-400w.webp 400w, /images/service-stucco-repair-800w.webp 800w, /images/service-stucco-repair-1200w.webp 1200w, /images/service-stucco-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-roof-repair": {
+        "src": "/images/service-tile-roof-repair.webp",
+        "srcset": "/images/service-tile-roof-repair-400w.webp 400w, /images/service-tile-roof-repair-800w.webp 800w, /images/service-tile-roof-repair-1200w.webp 1200w, /images/service-tile-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-covers-pergolas": {
+        "src": "/images/service-patio-covers-pergolas.webp",
+        "srcset": "/images/service-patio-covers-pergolas-400w.webp 400w, /images/service-patio-covers-pergolas-800w.webp 800w, /images/service-patio-covers-pergolas-1200w.webp 1200w, /images/service-patio-covers-pergolas.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-window-installation": {
+        "src": "/images/service-door-window-installation.webp",
+        "srcset": "/images/service-door-window-installation-400w.webp 400w, /images/service-door-window-installation-800w.webp 800w, /images/service-door-window-installation-1200w.webp 1200w, /images/service-door-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "framing-services": {
+        "src": "/images/service-framing-services.webp",
+        "srcset": "/images/service-framing-services-400w.webp 400w, /images/service-framing-services-800w.webp 800w, /images/service-framing-services-1200w.webp 1200w, /images/service-framing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-installation-repair": {
+        "src": "/images/service-drywall-installation-repair.webp",
+        "srcset": "/images/service-drywall-installation-repair-400w.webp 400w, /images/service-drywall-installation-repair-800w.webp 800w, /images/service-drywall-installation-repair-1200w.webp 1200w, /images/service-drywall-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
